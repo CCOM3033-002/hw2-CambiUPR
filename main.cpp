@@ -1,4 +1,4 @@
-// Sebastiab Cambo CambiUPR 801229348
+// Sebastian Cambo CambiUPR 801229348
 // Sus diapositivas :)
 
 #include <iostream>
